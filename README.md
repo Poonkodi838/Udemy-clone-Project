@@ -17,7 +17,7 @@ A simple online learning platform, inspired by Udemy, built with basic HTML and 
 ## Installation
 
    
-3. Open the index.html file in your browser to view the website:
+1. Open the index.html file in your browser to view the website:
    bash
    open index.html
    
